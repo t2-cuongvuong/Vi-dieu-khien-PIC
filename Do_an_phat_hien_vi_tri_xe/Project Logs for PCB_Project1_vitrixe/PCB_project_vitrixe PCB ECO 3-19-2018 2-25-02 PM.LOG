@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Sensor1 Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=Sensor2 Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=Sensor3 Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=Sensor4 Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=Sensor1 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=Sensor2 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=Sensor3 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=Sensor4 Pin=J5-3
+Added Room: Name=Sheet1_vitrixe

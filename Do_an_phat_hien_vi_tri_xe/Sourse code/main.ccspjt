@@ -1,0 +1,24 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F4520
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[D:\Do_An_Srf05\Do_an_phat_hien_vi_tri_xe\Sourse code\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=main.h
+3=main.sym
+4=
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)

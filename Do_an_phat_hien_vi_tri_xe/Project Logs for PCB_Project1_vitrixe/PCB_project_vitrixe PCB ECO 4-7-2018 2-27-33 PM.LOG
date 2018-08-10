@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Sensor6 Pin=U1-33
+Removed Pin From Net: NetName=Sensor5 Pin=U1-34
+Added Pin To Net: NetName=Sensor6 Pin=U1-21
+Added Pin To Net: NetName=Sensor5 Pin=U1-22
+Added Room: Name=Sheet1_vitrixe

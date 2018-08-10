@@ -1,0 +1,339 @@
+Added Component: Designator=1(XT ABLS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT1(BT-4P0606A2V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT2(BT-4P0606A2V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT3(BT-4P0606A2V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT4(BT-4P0606A2V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT5(BT-4P0606A2V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CAP 130D50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAP 100D50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CAP 0805/2012)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(DIO 1S2P1713H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIO 1S2P1713H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=J1(61300511821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300511821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "05p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J2(61300311821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300311821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "03p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J3(61300311821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300311821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "03p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J4(61300311821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300311821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "03p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J5(61300311821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300311821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "03p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J6(61300311821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300311821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "03p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J7(61300311821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "61300311821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "03p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND 1313-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/744910025.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "744910025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "Aug 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1322"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uH"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD-C1602N1Z BLUE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD1(LED 5MM GREEN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD2(LED 5MM GREEN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD3(LED 5MM GREEN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LM1(TO263-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(POW3.50 3DFH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 0805/2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RN1(RES P4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW6"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIP40Q)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VR1(POTSD 3296V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OSC1 Pin=1-1
+Added Pin To Net: NetName=OSC2 Pin=1-2
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=Reset Pin=BT1-2
+Added Pin To Net: NetName=Reset Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=BT2-1
+Added Pin To Net: NetName=GND Pin=BT2-1
+Added Pin To Net: NetName=GND Pin=BT3-1
+Added Pin To Net: NetName=GND Pin=BT3-1
+Added Pin To Net: NetName=GND Pin=BT4-1
+Added Pin To Net: NetName=GND Pin=BT4-1
+Added Pin To Net: NetName=GND Pin=BT5-1
+Added Pin To Net: NetName=GND Pin=BT5-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=OSC1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=Reset Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=OSC2 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=PGC Pin=J1-1
+Added Pin To Net: NetName=PGD Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+5V Pin=J1-4
+Added Pin To Net: NetName=Reset Pin=J1-5
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=Sensor1 Pin=J2-3
+Added Pin To Net: NetName=+5V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=Sensor2 Pin=J3-3
+Added Pin To Net: NetName=+5V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=Sensor3 Pin=J4-3
+Added Pin To Net: NetName=+5V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=Sensor4 Pin=J5-3
+Added Pin To Net: NetName=+5V Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=Sensor5 Pin=J6-3
+Added Pin To Net: NetName=+5V Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=Sensor6 Pin=J7-3
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=+5V Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=LCD_RS Pin=LCD1-4
+Added Pin To Net: NetName=LCD_RW Pin=LCD1-5
+Added Pin To Net: NetName=LCD_E Pin=LCD1-6
+Added Pin To Net: NetName=LCD_D4 Pin=LCD1-11
+Added Pin To Net: NetName=LCD_D5 Pin=LCD1-12
+Added Pin To Net: NetName=LCD_D6 Pin=LCD1-13
+Added Pin To Net: NetName=LCD_D7 Pin=LCD1-14
+Added Pin To Net: NetName=+5V Pin=LCD1-15
+Added Pin To Net: NetName=KLCD Pin=LCD1-16
+Added Pin To Net: NetName=+5V Pin=LD1-1
+Added Pin To Net: NetName=NetLD1_2 Pin=LD1-2
+Added Pin To Net: NetName=GND Pin=LD2-2
+Added Pin To Net: NetName=GND Pin=LD3-2
+Added Pin To Net: NetName=GND Pin=LM1-3
+Added Pin To Net: NetName=+5V Pin=LM1-4
+Added Pin To Net: NetName=GND Pin=LM1-5
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=KLCD Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetLD1_2 Pin=R2-2
+Added Pin To Net: NetName=+5V Pin=R3-1
+Added Pin To Net: NetName=Reset Pin=R3-2
+Added Pin To Net: NetName=+5V Pin=RN1-1
+Added Pin To Net: NetName=NetC1_1 Pin=SW1-3
+Added Pin To Net: NetName=Reset Pin=U1-1
+Added Pin To Net: NetName=+5V Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=OSC1 Pin=U1-13
+Added Pin To Net: NetName=OSC2 Pin=U1-14
+Added Pin To Net: NetName=Sensor1 Pin=U1-17
+Added Pin To Net: NetName=Sensor2 Pin=U1-18
+Added Pin To Net: NetName=Sensor3 Pin=U1-19
+Added Pin To Net: NetName=Sensor4 Pin=U1-20
+Added Pin To Net: NetName=LCD_RS Pin=U1-24
+Added Pin To Net: NetName=LCD_RW Pin=U1-25
+Added Pin To Net: NetName=LCD_E Pin=U1-26
+Added Pin To Net: NetName=LCD_D7 Pin=U1-27
+Added Pin To Net: NetName=LCD_D6 Pin=U1-28
+Added Pin To Net: NetName=LCD_D5 Pin=U1-29
+Added Pin To Net: NetName=LCD_D4 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=+5V Pin=U1-32
+Added Pin To Net: NetName=Sensor6 Pin=U1-33
+Added Pin To Net: NetName=Sensor5 Pin=U1-34
+Added Pin To Net: NetName=PGC Pin=U1-39
+Added Pin To Net: NetName=PGD Pin=U1-40
+Added Pin To Net: NetName=+5V Pin=VR1-1
+Added Pin To Net: NetName=NetLCD1_3 Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=Bt1 Pin=BT3-2
+Added Pin To Net: NetName=Bt1 Pin=BT3-2
+Added Pin To Net: NetName=Bt1 Pin=RN1-2
+Added Pin To Net: NetName=Bt1 Pin=U1-2
+Added Net: Name=Bt1
+Added Pin To Net: NetName=Bt2 Pin=BT4-2
+Added Pin To Net: NetName=Bt2 Pin=BT4-2
+Added Pin To Net: NetName=Bt2 Pin=RN1-3
+Added Pin To Net: NetName=Bt2 Pin=U1-3
+Added Net: Name=Bt2
+Added Pin To Net: NetName=Bt3 Pin=BT5-2
+Added Pin To Net: NetName=Bt3 Pin=BT5-2
+Added Pin To Net: NetName=Bt3 Pin=RN1-4
+Added Pin To Net: NetName=Bt3 Pin=U1-4
+Added Net: Name=Bt3
+Added Pin To Net: NetName=Bt4 Pin=BT2-2
+Added Pin To Net: NetName=Bt4 Pin=BT2-2
+Added Pin To Net: NetName=Bt4 Pin=RN1-5
+Added Pin To Net: NetName=Bt4 Pin=U1-5
+Added Net: Name=Bt4
+Added Pin To Net: NetName=LED1 Pin=R4-2
+Added Pin To Net: NetName=LED1 Pin=U1-15
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R5-2
+Added Pin To Net: NetName=LED2 Pin=U1-16
+Added Net: Name=LED2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D1-2
+Added Pin To Net: NetName=NetC2_1 Pin=LM1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=NetD2_2 Pin=LM1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetLD2_1 Pin=LD2-1
+Added Pin To Net: NetName=NetLD2_1 Pin=R4-1
+Added Net: Name=NetLD2_1
+Added Pin To Net: NetName=NetLD3_1 Pin=LD3-1
+Added Pin To Net: NetName=NetLD3_1 Pin=R5-1
+Added Net: Name=NetLD3_1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=SW1-2
+Added Net: Name=NetP1_1
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component 1 XT2
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component BT1 Button 4
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component BT2 Button 4
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component BT3 Button 4
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component BT4 Button 4
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component BT5 Button 4
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C1 1000uF/35V
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C2 104
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C3 104
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C4 1000uF/16V
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C5 22pF
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C6 104
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component C7 22pF
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component D1 DIODE SMD
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component D2 DIODE SMD
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J1 61300511821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J2 61300311821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J3 61300311821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J4 61300311821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J5 61300311821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J6 61300311821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component J7 61300311821
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component L1 100uH
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component LCD1 LCD16x2A
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component LD1 LED DIP
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component LD2 LED DIP
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component LD3 LED DIP
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component LM1 LM2576
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component P1 DCIN
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component R1 330
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component R2 330
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component R4 330
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component R5 330
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component RN1 10K
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component SW1 SW6A
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component U1 PIC18F4520-E/P
+Added Member To Class: ClassName=Sheet1_vitrixe Member=Component VR1 10K
+Added Room: Name=Sheet1_vitrixe
